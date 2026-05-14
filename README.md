@@ -117,7 +117,7 @@ React.js, TypeScript, Redux Toolkit, React Query, Tailwind CSS
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bhoomi-sharma" target="blank">
+<a href="https://www.linkedin.com/in/bhoomi-sharma-5ab18a269/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
