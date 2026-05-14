@@ -28,6 +28,9 @@ Full Stack Developer | AI-Based Application Developer | Java, Spring Boot & Reac
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhoomisha&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,js,ts,python,mysql,postgresql,tailwind,redux,git,github,vscode,postman,maven" />
+</p>
 ---
 
 ## 🛠 Tech Stack
