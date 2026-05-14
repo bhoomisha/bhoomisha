@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bhoomi Sharma</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Java + React Developer</h3>
 
-<!--
-**bhoomisha/bhoomisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Final-year B.Tech CSE (AI) student
+- 💻 Full Stack Developer
+- 🌱 Currently learning Spring Boot & scalable backend systems
+- 🤖 Interested in AI-powered applications
+- ⚡ Love building modern web apps
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- Python
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Redux Toolkit
+- HTML/CSS
+
+### Backend
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MySQL
+- PostgreSQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- Maven
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AI Digital Workers
+AI-powered labour marketplace platform with chatbot, attendance verification, fraud detection, and smart matching system.
+
+### 🌱 PlantAI
+Plant disease detection and plant care recommendation platform with analytics dashboard and interactive UI.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/bhoomi-sharma
+- Email: bhoomisharma3104@gmail.com
