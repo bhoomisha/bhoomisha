@@ -98,21 +98,7 @@ React.js, TypeScript, Redux Toolkit, React Query, Tailwind CSS
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhoomisha&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhoomisha&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
